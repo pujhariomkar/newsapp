@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+this news web is build in react .I use fetch library to fetch data from the URL .
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
